@@ -1,4 +1,4 @@
-import { datadogRum } from '@datadog/browser-rum';
+import { datadogRum } from '../node_modules/@datadog/browser-rum';
 
 console.log(datadogRum);
 
