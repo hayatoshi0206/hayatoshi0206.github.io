@@ -1,3 +1,4 @@
+import * as http from 'http';
 import { datadogRum } from '/node_modules/@datadog/browser-rum';
 
 console.log(datadogRum);
