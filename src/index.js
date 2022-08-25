@@ -4,8 +4,8 @@ import { datadogRum } from '/node_modules/@datadog/browser-rum';
 console.log(datadogRum);
 
 datadogRum.init({
-    applicationId: '5794a062-2dc3-4911-9ce9-948fe9deb7cb',
-    clientToken: 'pub227c7d1ed40e56f6e705f5c0e9c7eb97',
+    applicationId: '',
+    clientToken: '',
     site: 'datadoghq.com',
     service:'myapplication',
     
